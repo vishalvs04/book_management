@@ -1,0 +1,30 @@
+*{
+    overflow:hidden;
+}
+nav{
+    background-color:steelblue;
+}
+body{
+    background-color:darkslategray;
+    color:antiquewhite;
+}
+.conditional{
+    color:antiquewhite;
+   
+}
+.table{
+    color:white;
+}
+.row1{
+    background-color:darkslateblue;
+}
+.form-control{
+    background-color:skyblue;
+}
+.but{
+    background-color:skyblue;
+}
+#table{
+    overflow-x: hidden;
+}
+

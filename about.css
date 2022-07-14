@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Splash&display=swap');
+body{
+    color:antiquewhite;
+    background-color:darkslategray
+}
+
+h1{
+    width:fit-content;
+    margin-left:45%;
+    font-family: '', 'Noto Sans', sans-serif;
+}
+
+#pic{
+    height:300px;
+    width:300px;
+    margin-left:41%;
+    margin-top:8%;
+    border-radius: 500px;
+}
+
+.contact-links{
+    display:flex;
+    margin-left:50%;
+    background-color: white;
+}
+#whatsapp{
+    height:40px;
+    margin-left:43%;
+    margin-right:30px;
+}
+#insta{
+    height:40px;
+    margin: 20px 30px;
+}
+#github{
+    height:40px;
+    margin: 20px 20px;
+}
+#whatsapp:hover{
+    cursor:pointer;
+   height:70px;
+}
+#github:hover{
+    cursor:pointer;
+   height:70px;
+}
+#insta:hover{
+    cursor:pointer;
+   height:70px;
+}
+
+
+.about_content{
+    display:flex;
+}
+
+.about{
+    font-family: 'Splash', cursive;
+    font-size:20px;
+    margin-top:10%;
+    margin-left:40px;
+    padding:0;
+}
